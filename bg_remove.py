@@ -4,9 +4,9 @@ from PIL import Image
 from io import BytesIO
 import base64
 
-st.set_page_config(layout="wide", page_title="Image Background Remover")
+st.set_page_config(layout="wide", page_title="Xóa nền hình ảnh")
 
-st.write("## Remove background from your image")
+st.write("## Loại bỏ hình nền một cách đơn giản")
 st.write(
     ":dog: Hãy thử tải lên một hình ảnh để xem nền được loại bỏ một cách kỳ diệu. Bạn có thể tải xuống hình ảnh chất lượng đầy đủ ở thanh bên cạnh <--."
 )
