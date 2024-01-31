@@ -8,7 +8,7 @@ st.set_page_config(layout="wide", page_title="Image Background Remover")
 
 st.write("## Remove background from your image")
 st.write(
-    ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar. This code is open source and available [here](https://github.com/tyler-simons/BackgroundRemoval) on GitHub. Special thanks to the [rembg library](https://github.com/danielgatis/rembg) :grin:"
+    ":dog: Hãy thử tải lên một hình ảnh để xem nền được loại bỏ một cách kỳ diệu. Bạn có thể tải xuống hình ảnh chất lượng đầy đủ ở thanh bên cạnh <--."
 )
 st.sidebar.write("## Upload and download :gear:")
 
